@@ -1,3 +1,10 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
 Q11685764,Andrej Plenković,Andrej Plenković,male,1970-04-08T00:00:00Z,11,,Q1195270,Predsjednik Vlade Republike Hrvatske,Q11685764-cc8446c3-4823-10cf-7744-af8934b95472
 Q97671314,Boris Milošević,Boris Milošević (političar),male,1974-11-05T00:00:00Z,11,https://vlada.gov.hr/clanovi-vlade/66,Q16973527,Potpredsjednik Vlade za društvene djelatnosti i ljudska prava,Q97671314-d0e95c68-476a-9de0-8a1b-0cb157f30594
+Q2619574,Davor Božinović,Davor Božinović,male,1961-12-27T00:00:00Z,11,https://vlada.gov.hr/clanovi-vlade/66,Q16973527,Potpredsjednik Vlade,Q2619574-5614968F-AECC-4465-908C-45BFBD1BF6AE
+Q2619574,Davor Božinović,Davor Božinović,male,1961-12-27T00:00:00Z,11,https://vlada.gov.hr/clanovi-vlade/66,Q108068872,ministar unutarnjih poslova,Q2619574-8D086BF8-4842-4C80-A769-DDE5848AA668
+Q24641177,Tomo Medved,Tomo Medved,male,1968-03-17T00:00:00Z,11,https://vlada.gov.hr/clanovi-vlade/66,Q16973527,Potpredsjednik Vlade,Q24641177-85EF586C-CFB3-4768-A8B2-E4A52E394D8C
+Q24641177,Tomo Medved,Tomo Medved,male,1968-03-17T00:00:00Z,11,https://vlada.gov.hr/clanovi-vlade/66,Q108068825,ministar hrvatskih branitelja,Q24641177-5605E549-5221-4A09-8611-49374961E52B
+Q86458127,Vili Beroš,Vili Beroš,male,1964-12-13T00:00:00Z,11,,Q29017739,Ministar zdravstva,Q86458127-CDB78BC7-2420-43E4-AB33-3E20ACC163E6
+Q23303210,Zdravko Marić,Zdravko Marić,male,1977-02-03T00:00:00Z,11,https://vlada.gov.hr/clanovi-vlade/66,Q16973527,Potpredsjednik Vlade,Q23303210-5600B22F-E57E-42A4-82F9-05833263A125
+Q23303210,Zdravko Marić,Zdravko Marić,male,1977-02-03T00:00:00Z,11,https://vlada.gov.hr/clanovi-vlade/66,Q20675343,ministar financija,Q23303210-6B5C8C90-89C4-4E82-BFB3-465877BE447C
