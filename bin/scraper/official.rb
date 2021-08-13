@@ -11,7 +11,7 @@ class MemberList
     end
 
     def position
-      noko.css('.body').xpath('text()').text.tidy
+      noko.css('.body').xpath('text()').text.split(/ i (?=ministar)/).map(&:tidy)
     end
   end
 
