@@ -1,0 +1,297 @@
+{
+  "title": "Vili Beroš",
+  "pageID": 63206195,
+  "categories": [
+    "1964 births",
+    "Living people",
+    "Politicians from Split, Croatia",
+    "Health ministers of Croatia",
+    "Physicians from Split, Croatia",
+    "Croatian neurosurgeons"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Vili Beroš (born 13 December 1964) is a Croatian politician and neurosurgeon serving as Minister of Health in the Government of Croatia since 2020.",
+              "links": [
+                {
+                  "text": "Croatian",
+                  "type": "internal",
+                  "page": "Croatia"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "neurosurgeon",
+                  "type": "internal",
+                  "page": "neurosurgeon"
+                },
+                {
+                  "text": "Minister of Health",
+                  "type": "internal",
+                  "page": "Ministry of Health (Croatia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Government of Croatia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Vili Beroš"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 19 November 2020, it was announced that Minister Beroš had tested positive for the COVID-19 amid its pandemic in Croatia.",
+              "links": [
+                {
+                  "text": "COVID-19",
+                  "type": "internal",
+                  "page": "Coronavirus disease 2019"
+                },
+                {
+                  "text": "its pandemic in Croatia",
+                  "type": "internal",
+                  "page": "COVID-19 pandemic in Croatia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His tenure as minister has been marked by efforts to deal with the COVID-19 pandemic in Croatia, which, as of March 2021, has affected over 150,000 people in Croatia."
+            },
+            {
+              "text": "Croatia had also been presided over the Council of the European Union between January and June 2020, which occasionally entailed holding meetings of ministers of health from all 27 member states of the European Union, which are chaired by the minister from the presiding country.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Council of the European Union"
+                },
+                {
+                  "type": "internal",
+                  "page": "European Union"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "March 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "description": "Croatian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1964",
+          "month": "12",
+          "day": "13",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Jasminka Beroš",
+          "from": "2000",
+          "template": "marriage"
+        },
+        {
+          "transcription": "ʋîːli běːroʃ",
+          "template": "ipa"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Vili Beroš"
+          },
+          "birth_date": {
+            "text": "December 13, 1964"
+          },
+          "birth_place": {
+            "text": "Split, SR Croatia, SFR Yugoslavia",
+            "links": [
+              {
+                "text": "Split",
+                "type": "internal",
+                "page": "Split, Croatia"
+              },
+              {
+                "text": "SR Croatia",
+                "type": "internal",
+                "page": "Socialist Republic of Croatia"
+              },
+              {
+                "text": "SFR Yugoslavia",
+                "type": "internal",
+                "page": "Socialist Federal Republic of Yugoslavia"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Jasminka Beroš (m. 2000)"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "party": {
+            "text": "HDZ",
+            "links": [
+              {
+                "text": "HDZ",
+                "type": "internal",
+                "page": "Croatian Democratic Union"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Zagreb",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Zagreb"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician, neurosurgeon"
+          },
+          "profession": {
+            "text": "Neurosurgery",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Neurosurgery"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Health",
+            "links": [
+              {
+                "text": "Minister of Health",
+                "type": "internal",
+                "page": "Ministry of Health (Croatia)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "31 January 2020"
+          },
+          "primeminister": {
+            "text": "Andrej Plenković",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrej Plenković"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Milan Kujundžić",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Milan Kujundžić"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://vlada.gov.hr/o-vladi/clanovi-vlade/clanovi-vlade-128/vili-beros-28720/28720",
+          "title": "Vili Beroš – Vlada Republike Hrvatske",
+          "website": "vlada.gov.hr",
+          "access-date": "25 February 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.jutarnji.hr/vijesti/hrvatska/vili-beros-tijekom-noci-u-kbc-rijeka-smjesteno-je-devet-radnika-iz-italije-jedan-od-njih-pokazuje-znakove-bolesti/10014190/",
+          "title": "VILI BEROŠ 'Tijekom noći u KBC Rijeka smješteno je devet radnika iz Italije, jedan od njih pokazuje znakove bolesti'",
+          "work": "Jutarnji list",
+          "date": "25 February 2020",
+          "access-date": "25 February 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://vijesti.hrt.hr/577786/biografija-vilija-berosa",
+          "title": "Tko je novi ministar? Biografija Vilija Beroša",
+          "website": "vijesti.hrt.hr",
+          "publisher": "Croatian Radiotelevision",
+          "access-date": "25 February 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.jutarnji.hr/vijesti/hrvatska/vili-beros-najavio-izvjesno-je-da-ce-koronavirus-ovih-dana-biti-u-hrvatskoj-ali-sustav-je-spreman-ako-treba-spremni-smo-zatvoriti-granice/10014553/",
+          "title": "BEROŠ NAJAVIO 'Izvjesno je da će koronavirus ovih dana biti u Hrvatskoj, ali sustav je spreman. Ako treba, spremni smo zatvoriti granice'",
+          "work": "Jutarnji list",
+          "date": "25 February 2020",
+          "access-date": "25 February 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.croatiaweek.com/croatian-health-minister-positive-for-coronavirus/",
+          "title": "Croatian health minister positive for coronavirus &#124; Croatia Week",
+          "date": "19 November 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "koronavirus.hr",
+          "url": "https://www.koronavirus.hr/en",
+          "website": "koronavirus.hr",
+          "publisher": "Government of the Republic of Croatia",
+          "access-date": "19 November 2020",
+          "language": "en",
+          "archive-date": "26 March 2020",
+          "archive-url": "https://web.archive.org/web/20200326135722/https://www.koronavirus.hr/en",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "cabinet plenković ii"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "croatia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

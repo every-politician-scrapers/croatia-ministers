@@ -1,0 +1,266 @@
+{
+  "title": "Oleg Butković",
+  "pageID": 64806868,
+  "categories": [
+    "Living people",
+    "1979 births",
+    "Politicians from Rijeka",
+    "21st-century Croatian politicians",
+    "Government ministers of Croatia",
+    "University of Rijeka alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Oleg Butković (born 4 May 1979 ) is a Croatian politician serving as Minister of Maritime Affairs, Transport and Infrastructure in the Government of Croatia since 2016.",
+              "links": [
+                {
+                  "text": "Minister of Maritime Affairs, Transport and Infrastructure",
+                  "type": "internal",
+                  "page": "Ministry of Maritime Affairs, Transport and Infrastructure (Croatia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Government of Croatia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Oleg Butković"
+                ]
+              }
+            },
+            {
+              "text": "He assumed the position in the cabinet of Tihomir Orešković and continued to hold the position in the first and second cabinet of Andrej Plenković.",
+              "links": [
+                {
+                  "text": "cabinet",
+                  "type": "internal",
+                  "page": "Cabinet of Tihomir Orešković"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tihomir Orešković"
+                },
+                {
+                  "text": "first",
+                  "type": "internal",
+                  "page": "Cabinet of Andrej Plenković I"
+                },
+                {
+                  "text": "second cabinet",
+                  "type": "internal",
+                  "page": "Cabinet of Andrej Plenković II"
+                },
+                {
+                  "type": "internal",
+                  "page": "Andrej Plenković"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Croatian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1979",
+          "month": "5",
+          "day": "4",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Barbara Butković",
+          "from": "2006",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Oleg Butković"
+          },
+          "image": {
+            "text": "OlegButkovic final.jpg"
+          },
+          "image_size": {
+            "text": "205px"
+          },
+          "birth_date": {
+            "text": "May 4, 1979"
+          },
+          "birth_place": {
+            "text": "Rijeka, SR Croatia, SFR Yugoslavia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rijeka"
+              },
+              {
+                "text": "SR Croatia",
+                "type": "internal",
+                "page": "Socialist Republic of Croatia"
+              },
+              {
+                "text": "SFR Yugoslavia",
+                "type": "internal",
+                "page": "Socialist Federal Republic of Yugoslavia"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Rijeka",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Rijeka"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Barbara Butković (m. 2006)"
+          },
+          "party": {
+            "text": "HDZ",
+            "links": [
+              {
+                "text": "HDZ",
+                "type": "internal",
+                "page": "Croatian Democratic Union"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Maritime Affairs, Transport and Infrastructure",
+            "links": [
+              {
+                "text": "Minister of Maritime Affairs, Transport and Infrastructure",
+                "type": "internal",
+                "page": "Ministry of Maritime Affairs, Transport and Infrastructure (Croatia)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "22 January 2016"
+          },
+          "primeminister": {
+            "text": "Tihomir Orešković\nAndrej Plenković",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tihomir Orešković"
+              },
+              {
+                "type": "internal",
+                "page": "Andrej Plenković"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Siniša Hajdaš Dončić",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Siniša Hajdaš Dončić"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Oleg Butković",
+          "url": "https://vlada.gov.hr/o-vladi/clanovi-vlade/clanovi-vlade-128/oleg-butkovic/18249",
+          "url-status": "live",
+          "access-date": "10 August 2020",
+          "website": "Government of the Republic of Croatia",
+          "language": "hr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "20 July 2020",
+          "title": "Croatian PM announces names of all cabinet ministers",
+          "url": "https://www.croatiaweek.com/croatian-pm-announces-names-of-all-cabinet-ministers/",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20200722172311/https://www.croatiaweek.com/croatian-pm-announces-names-of-all-cabinet-ministers/",
+          "archive-date": "22 July 2020",
+          "access-date": "10 August 2020",
+          "website": "Croatia Week",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Members of the Government",
+          "url": "https://vlada.gov.hr/clanovi-vlade/66",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20200808215408/https://vlada.gov.hr/clanovi-vlade/66",
+          "archive-date": "8 August 2020",
+          "access-date": "11 August 2020",
+          "website": "Government of the Republic of Croatia",
+          "language": "hr",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Cabinet of Andrej Plenković I",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cabinet of Andrej Plenković I"
+              }
+            ]
+          },
+          {
+            "text": "Cabinet of Andrej Plenković II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cabinet of Andrej Plenković II"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "cabinet plenković ii"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "croatia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

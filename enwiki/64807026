@@ -1,0 +1,231 @@
+{
+  "title": "Nikolina Brnjac",
+  "pageID": 64807026,
+  "categories": [
+    "Living people",
+    "1978 births",
+    "People from Karlovac",
+    "Croatian Democratic Union politicians",
+    "21st-century Croatian women politicians",
+    "Women government ministers of Croatia",
+    "University of Zagreb alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nikolina Brnjac (born 11 July 1978 ) is a Croatian politician serving as Minister of Tourism and Sports in the Government of Croatia since 2020.",
+              "links": [
+                {
+                  "text": "Minister of Tourism and Sports",
+                  "type": "internal",
+                  "page": "Ministry of Tourism (Croatia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Government of Croatia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Nikolina Brnjac"
+                ]
+              }
+            },
+            {
+              "text": "She is affiliated with the Croatian Democratic Union party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Croatian Democratic Union"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Croatian politician",
+          "template": "short description"
+        },
+        {
+          "date": "July 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1978",
+          "month": "7",
+          "day": "11",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Nikolina Brnjac"
+          },
+          "image": {
+            "text": "EU budget debate ahead of crucial summit - with Nikolina Brnjac (Council) (49524883806).jpg"
+          },
+          "birth_date": {
+            "text": "July 11, 1978"
+          },
+          "birth_place": {
+            "text": "Karlovac, SR Croatia, SFR Yugoslavia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Karlovac"
+              },
+              {
+                "text": "SR Croatia",
+                "type": "internal",
+                "page": "Socialist Republic of Croatia"
+              },
+              {
+                "text": "SFR Yugoslavia",
+                "type": "internal",
+                "page": "Socialist Federal Republic of Yugoslavia"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Goran Brnjac"
+          },
+          "alma_mater": {
+            "text": "University of Zagreb",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Zagreb"
+              }
+            ]
+          },
+          "party": {
+            "text": "HDZ (2016–present)",
+            "links": [
+              {
+                "text": "HDZ",
+                "type": "internal",
+                "page": "Croatian Democratic Union"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Tourism and Sports",
+            "links": [
+              {
+                "text": "Minister of Tourism and Sports",
+                "type": "internal",
+                "page": "Ministry of Tourism (Croatia)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "23 July 2020"
+          },
+          "primeminister": {
+            "text": "Andrej Plenković",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrej Plenković"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Gari Cappelli",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gari Cappelli"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Nikolina Brnjac",
+          "url": "https://vlada.gov.hr/o-vladi/clanovi-vlade/clanovi-vlade-128/nikolina-brnjac/30009",
+          "url-status": "live",
+          "access-date": "10 August 2020",
+          "website": "Government of the Republic of Croatia",
+          "language": "hr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "20 July 2020",
+          "title": "Croatian PM announces names of all cabinet ministers",
+          "url": "https://www.croatiaweek.com/croatian-pm-announces-names-of-all-cabinet-ministers/",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20200722172311/https://www.croatiaweek.com/croatian-pm-announces-names-of-all-cabinet-ministers/",
+          "archive-date": "22 July 2020",
+          "access-date": "10 August 2020",
+          "website": "Croatia Week",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Members of the Government",
+          "url": "https://vlada.gov.hr/clanovi-vlade/66",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20200808215408/https://vlada.gov.hr/clanovi-vlade/66",
+          "archive-date": "8 August 2020",
+          "access-date": "11 August 2020",
+          "website": "Government of the Republic of Croatia",
+          "language": "hr",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Cabinet of Andrej Plenković II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cabinet of Andrej Plenković II"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "cabinet plenković ii"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "croatia-politician-stub"
+        }
+      ]
+    }
+  ]
+}
