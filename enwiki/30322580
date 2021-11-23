@@ -80,8 +80,11 @@
                 },
                 {
                   "text": "sh",
-                  "type": "internal",
-                  "page": ":sh:Općenarodna_odbrana_i_društvena_samozaštita"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "sh"
+                  }
                 },
                 {
                   "type": "internal",

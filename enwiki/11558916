@@ -748,9 +748,11 @@
               "text": "His paternal grandfather and paternal great-uncle, Ante and Ivan Milanović, respectively, from Glavice, joined the Yugoslav Partisans in 1942, taking part later in the liberation of Trieste, while his maternal grandfather, Stjepan Matasić, from an affluent family, was—as Milanović revealed in 2016—an Ustasha, a member of the paramilitary corps established by the Nazi-collaborationist government of the Independent State of Croatia.",
               "links": [
                 {
-                  "text": "Glavice",
-                  "type": "internal",
-                  "page": ":hr:Glavice"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "hr"
+                  }
                 },
                 {
                   "type": "internal",
