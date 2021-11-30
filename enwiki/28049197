@@ -351,27 +351,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "science ministers of croatia"
-        },
-        {
-          "template": "cabinet kosor"
-        },
-        {
-          "template": "cabinet plenković ii"
-        },
-        {
-          "template": "authority control"
-        }
-      ]
     }
   ]
 }

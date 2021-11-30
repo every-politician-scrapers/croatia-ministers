@@ -92,37 +92,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-mil"
-        },
-        {
-          "list": [
-            ""
-          ],
-          "before": "Mirko Šundov",
-          "title": "Chief of the General Staff of Armed Forces of Croatia",
-          "years": "1 March 2020 – present",
-          "after": "Incumbent",
-          "template": "succession box"
-        },
-        {
-          "template": "gs os rh"
-        },
-        {
-          "template": "authority control"
-        }
-      ]
     }
   ]
 }

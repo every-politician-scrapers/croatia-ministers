@@ -80,11 +80,8 @@
                 },
                 {
                   "text": "sh",
-                  "type": "interwiki",
-                  "wiki": {
-                    "wiki": "",
-                    "lang": "sh"
-                  }
+                  "type": "internal",
+                  "page": ":sh:Općenarodna_odbrana_i_društvena_samozaštita"
                 },
                 {
                   "type": "internal",
@@ -358,92 +355,6 @@
             ]
           }
         }
-      ]
-    },
-    {
-      "title": "See also",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Cabinet of Andrej Plenković I",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cabinet of Andrej Plenković I"
-              }
-            ]
-          },
-          {
-            "text": "Cabinet of Andrej Plenković II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cabinet of Andrej Plenković II"
-              }
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "Davor Božinović"
-          ],
-          "template": "commons category-inline"
-        },
-        {
-          "template": "croatian minister of defence"
-        },
-        {
-          "template": "cabinet kosor"
-        },
-        {
-          "template": "cabinet plenković ii"
-        },
-        {
-          "template": "croatia-politician-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Davor Božinović at the Government of Croatia official website",
-            "links": [
-              {
-                "text": "Davor Božinović",
-                "type": "external",
-                "site": "https://web.archive.org/web/20110306100001/http://www.vlada.hr/en/naslovnica/o_vladi_rh/clanovi_vlade/dr_sc_davor_bozinovic"
-              }
-            ]
-          }
-        ],
-        [
-          {
-            "text": "Davor Božinović at the Government of Croatia official website",
-            "links": [
-              {
-                "text": "Davor Božinović",
-                "type": "external",
-                "site": "https://web.archive.org/web/20110306100001/http://www.vlada.hr/en/naslovnica/o_vladi_rh/clanovi_vlade/dr_sc_davor_bozinovic"
-              }
-            ]
-          }
-        ]
       ]
     }
   ]

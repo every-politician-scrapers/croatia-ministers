@@ -274,24 +274,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "cabinet plenković ii"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "croatia-politician-stub"
-        }
-      ]
     }
   ]
 }

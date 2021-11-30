@@ -165,46 +165,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "See also",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Cabinet of Andrej Plenković II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cabinet of Andrej Plenković II"
-              }
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "cabinet plenković ii"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "croatia-politician-stub"
-        }
-      ]
     }
   ]
 }
