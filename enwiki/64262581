@@ -129,12 +129,12 @@
       ],
       "templates": [
         {
-          "date": "June 2020",
-          "template": "use dmy dates"
-        },
-        {
           "description": "Croatian politician and activist",
           "template": "short description"
+        },
+        {
+          "date": "June 2020",
+          "template": "use dmy dates"
         },
         {
           "year": "1982",
