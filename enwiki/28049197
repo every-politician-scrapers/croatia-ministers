@@ -324,32 +324,6 @@
             "number": 2
           }
         }
-      ],
-      "references": [
-        {
-          "last": "Kalogjera-Brkić",
-          "first": "Ivana",
-          "date": "26 July 2009",
-          "title": "I'm not the minister because of the money, I already have my millions",
-          "language": "Croatian",
-          "publisher": "Jutarnji list",
-          "url": "http://www.jutarnji.hr/nisam-ministar-zbog-novca--svoje-milijune-vec-imam/304243/",
-          "access-date": "15 July 2010",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20110308211502/http://www.jutarnji.hr/nisam-ministar-zbog-novca--svoje-milijune-vec-imam/304243",
-          "archive-date": "8 March 2011",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "O Vladi RH - dr. sc. Radovan Fuchs",
-          "language": "Croatian",
-          "publisher": "Vlada Republike Hrvatske",
-          "work": "www.vlada.hr",
-          "url": "http://www.vlada.hr/hr/naslovnica/o_vladi_rh/clanovi_vlade/dr_sc_radovan_fuchs",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

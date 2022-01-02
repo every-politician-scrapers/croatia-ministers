@@ -206,27 +206,6 @@
             "number": 1
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Zastupnik data 106 {{!}} Hrvatski sabor",
-          "url": "https://www.sabor.hr/hr/zastupnici/milosevic-boris-9-saziv",
-          "access-date": "24 July 2020",
-          "website": "Hrvatski sabor",
-          "language": "hr-HR",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Serbia",
-          "first": "RTS, Radio televizija Srbije, Radio Television of",
-          "title": "Boris Milošević nije više predsednik SNV-a",
-          "url": "http://www.rts.rs/page/stories/sr/story/11/region/4025946/boris-milosevic-snv.html",
-          "access-date": "24 July 2020",
-          "website": "www.rts.rs",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

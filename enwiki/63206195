@@ -216,63 +216,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://vlada.gov.hr/o-vladi/clanovi-vlade/clanovi-vlade-128/vili-beros-28720/28720",
-          "title": "Vili Beroš – Vlada Republike Hrvatske",
-          "website": "vlada.gov.hr",
-          "access-date": "25 February 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.jutarnji.hr/vijesti/hrvatska/vili-beros-tijekom-noci-u-kbc-rijeka-smjesteno-je-devet-radnika-iz-italije-jedan-od-njih-pokazuje-znakove-bolesti/10014190/",
-          "title": "VILI BEROŠ 'Tijekom noći u KBC Rijeka smješteno je devet radnika iz Italije, jedan od njih pokazuje znakove bolesti'",
-          "work": "Jutarnji list",
-          "date": "25 February 2020",
-          "access-date": "25 February 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://vijesti.hrt.hr/577786/biografija-vilija-berosa",
-          "title": "Tko je novi ministar? Biografija Vilija Beroša",
-          "website": "vijesti.hrt.hr",
-          "publisher": "Croatian Radiotelevision",
-          "access-date": "25 February 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.jutarnji.hr/vijesti/hrvatska/vili-beros-najavio-izvjesno-je-da-ce-koronavirus-ovih-dana-biti-u-hrvatskoj-ali-sustav-je-spreman-ako-treba-spremni-smo-zatvoriti-granice/10014553/",
-          "title": "BEROŠ NAJAVIO 'Izvjesno je da će koronavirus ovih dana biti u Hrvatskoj, ali sustav je spreman. Ako treba, spremni smo zatvoriti granice'",
-          "work": "Jutarnji list",
-          "date": "25 February 2020",
-          "access-date": "25 February 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.croatiaweek.com/croatian-health-minister-positive-for-coronavirus/",
-          "title": "Croatian health minister positive for coronavirus &#124; Croatia Week",
-          "date": "19 November 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "koronavirus.hr",
-          "url": "https://www.koronavirus.hr/en",
-          "website": "koronavirus.hr",
-          "publisher": "Government of the Republic of Croatia",
-          "access-date": "19 November 2020",
-          "language": "en",
-          "archive-date": "26 March 2020",
-          "archive-url": "https://web.archive.org/web/20200326135722/https://www.koronavirus.hr/en",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

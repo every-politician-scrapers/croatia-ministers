@@ -435,36 +435,6 @@
             "text": "Official website"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://hr.n1info.com/Vijesti/a491207/Plenkovic-ponovno-predsjednik-HDZ-a-s-osvojenih-79-posto.html",
-          "title": "Plenković ponovno predsjednik HDZ-a s osvojenih 79 posto",
-          "work": "N1 HR",
-          "date": "16 March 2020",
-          "access-date": "16 December 2020",
-          "language": "hr",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.dnevno.hr/zivotopis/83455-andrej-plenkovic-zivotopis.html",
-          "title": "Andrej Plenković, životopis",
-          "language": "hr",
-          "date": "8 April 2013",
-          "access-date": "1 August 2013",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20130807044343/http://dnevno.hr/zivotopis/83455-andrej-plenkovic-zivotopis.html",
-          "archive-date": "7 August 2013",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
