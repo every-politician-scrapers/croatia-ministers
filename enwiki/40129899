@@ -199,27 +199,19 @@
           "template": "use dmy dates"
         },
         {
-          "title": "Cabinet I (2016–2020)",
+          "1": "Ivan Kovačić (2016–2017)",
+          "title": "See list",
           "list": [
-            "Ivan Kovačić (2016–2017)",
             "Davor Ivo Stier (2016–2017)",
-            "Damir Krstičević",
+            "Damir Krstičević (2016–2020)",
             "Martina Dalić (2016–2018)",
             "Predrag Štromar (2017–2020)",
             "Marija Pejčinović Burić (2017–2019)",
             "Tomislav Tolušić (2018–2019)",
-            "Zdravko Marić (2019–2020)",
-            "Davor Božinović (2019–2020)"
-          ],
-          "template": "list collapsed"
-        },
-        {
-          "title": "Cabinet II (2020–present)",
-          "list": [
-            "Zdravko Marić",
-            "Davor Božinović",
-            "Tomo Medved",
-            "Boris Milošević"
+            "Zdravko Marić (2019–)",
+            "Davor Božinović (2019–)",
+            "Tomo Medved (2020–)",
+            "Boris Milošević (2020–)"
           ],
           "template": "list collapsed"
         },
@@ -265,10 +257,10 @@
             "text": "Andrej Plenković"
           },
           "image": {
-            "text": "Andrej Plenković 2019 (cropped).jpg"
+            "text": "PM Plenković at Downing Street.jpg"
           },
           "caption": {
-            "text": "Plenković in May 2019"
+            "text": "Plenković in 2020"
           },
           "office": {
             "text": "Prime Minister of Croatia",
