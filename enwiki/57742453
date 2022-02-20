@@ -9,7 +9,8 @@
     "Representatives in the modern Croatian Parliament",
     "University of Maribor alumni",
     "People from Međimurje County",
-    "Government ministers of Croatia"
+    "Government ministers of Croatia",
+    "Corruption in Croatia"
   ],
   "sections": [
     {
@@ -19,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Darko Horvat (born 28 September 1970) is a Croatian politician serving as Minister of Construction, Physical Planning and State Property in the Government of Croatia since 2020.",
+              "text": "Darko Horvat (born 28 September 1970) is a Croatian politician who served as Minister of Construction, Physical Planning and State Property in the Government of Croatia between 2020 and 2022, when he was arrested by USKOK for abuse of position.",
               "links": [
                 {
                   "text": "Minister of Construction, Physical Planning and State Property",
@@ -29,6 +30,10 @@
                 {
                   "type": "internal",
                   "page": "Government of Croatia"
+                },
+                {
+                  "type": "internal",
+                  "page": "USKOK"
                 }
               ],
               "formatting": {
@@ -36,6 +41,15 @@
                   "Darko Horvat"
                 ]
               }
+            },
+            {
+              "text": "He is a member of the Croatian Democratic Union since 1999.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Croatian Democratic Union"
+                }
+              ]
             }
           ]
         }
@@ -89,10 +103,9 @@
             ]
           },
           "party": {
-            "text": "HDZ",
+            "text": "Croatian Democratic Union (since 1999)",
             "links": [
               {
-                "text": "HDZ",
                 "type": "internal",
                 "page": "Croatian Democratic Union"
               }
@@ -120,6 +133,9 @@
           "term_start": {
             "text": "23 July 2020"
           },
+          "term_end": {
+            "text": "19 February 2022"
+          },
           "primeminister": {
             "text": "Andrej Plenković",
             "links": [
@@ -141,6 +157,14 @@
                 "page": "Mario Banožić"
               }
             ]
+          },
+          "successor": {
+            "text": "Vacant",
+            "formatting": {
+              "italic": [
+                "Vacant"
+              ]
+            }
           },
           "office1": {
             "text": "Minister of Economy and Sustainable Development",
