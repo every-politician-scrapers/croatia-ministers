@@ -1,127 +1,14 @@
 {
-  "title": "Boris Vujčić",
-  "pageID": 39868011,
-  "categories": [
-    "1964 births",
-    "Living people",
-    "University of Zagreb faculty",
-    "Croatian economists",
-    "Monetary economists",
-    "Governors of the Croatian National Bank",
-    "Faculty of Economics and Business, University of Zagreb alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Boris Vujčić (born 2 June 1964) is a Croatian economist and university professor who serves as the 5th Governor of the Croatian National Bank since 2012.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Governor of the Croatian National Bank"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Boris Vujčić"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1964",
-          "month": "6",
-          "day": "2",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "transcription": "bǒris ʋûːjtʃitɕ",
-          "template": "ipa"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Boris Vujčić"
-          },
-          "image": {
-            "text": "Boris Vujčić.jpg"
-          },
-          "imagesize": {
-            "text": "200px"
-          },
-          "order": {
-            "text": "5th"
-          },
-          "office": {
-            "text": "Governor of the Croatian National Bank"
-          },
-          "term_start": {
-            "text": "8 July 2012"
-          },
-          "predecessor": {
-            "text": "Željko Rohatinski",
-            "links": [
-              {
-                "text": "Željko Rohatinski",
-                "type": "internal",
-                "page": "Željko Rohatinski"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "June 2, 1964"
-          },
-          "birth_place": {
-            "text": "Zagreb, SR Croatia, SFR Yugoslavia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zagreb"
-              },
-              {
-                "text": "SR Croatia",
-                "type": "internal",
-                "page": "Socialist Republic of Croatia"
-              },
-              {
-                "text": "SFR Yugoslavia",
-                "type": "internal",
-                "page": "Socialist Federal Republic of Yugoslavia"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Tanja Vujčić"
-          },
-          "alma_mater": {
-            "text": "University of Zagreb",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Zagreb"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Economy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Economy"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Boris Vujčić",
+  "image": "Boris Vujčić.jpg",
+  "imagesize": "200px",
+  "order": "5th",
+  "office": "Governor of the Croatian National Bank",
+  "term_start": "8 July 2012",
+  "predecessor": "Željko Rohatinski",
+  "birth_date": "June 2, 1964",
+  "birth_place": "Zagreb, SR Croatia, SFR Yugoslavia",
+  "spouse": "Tanja Vujčić",
+  "alma_mater": "University of Zagreb",
+  "profession": "Economy"
 }

@@ -1,211 +1,25 @@
 {
-  "title": "Tomislav Ćorić",
-  "pageID": 64806688,
-  "categories": [
-    "Living people",
-    "1979 births",
-    "People from Metković",
-    "21st-century Croatian politicians",
-    "Government ministers of Croatia",
-    "Economy ministers of Croatia",
-    "Representatives in the modern Croatian Parliament",
-    "University of Zagreb alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Tomislav Ćorić (born 17 November 1979 ) is a Croatian politician serving as Minister of Economy and Sustainable Development in the Government of Croatia since 2020.",
-              "links": [
-                {
-                  "text": "Minister of Economy and Sustainable Development",
-                  "type": "internal",
-                  "page": "Ministry of Economy, Entrepreneurship and Crafts (Croatia)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Government of Croatia"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Tomislav Ćorić"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Croatian politician",
-          "template": "short description"
-        },
-        {
-          "date": "October 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1979",
-          "month": "11",
-          "day": "17",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "University of Zagreb",
-            "University of Greenwich"
-          ],
-          "template": "ubl"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Tomislav Ćorić"
-          },
-          "image": {
-            "text": "Tomislav Ćorić (cropped).jpg"
-          },
-          "image_size": {
-            "text": "175px"
-          },
-          "birth_date": {
-            "text": "November 17, 1979"
-          },
-          "birth_place": {
-            "text": "Metković, SR Croatia, SFR Yugoslavia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Metković"
-              },
-              {
-                "text": "SR Croatia",
-                "type": "internal",
-                "page": "Socialist Republic of Croatia"
-              },
-              {
-                "text": "SFR Yugoslavia",
-                "type": "internal",
-                "page": "Socialist Federal Republic of Yugoslavia"
-              }
-            ]
-          },
-          "party": {
-            "text": "HDZ",
-            "links": [
-              {
-                "text": "HDZ",
-                "type": "internal",
-                "page": "Croatian Democratic Union"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Zagreb\n\nUniversity of Greenwich"
-          },
-          "office": {
-            "text": "Minister of Economy and Sustainable Development",
-            "links": [
-              {
-                "text": "Minister of Economy and Sustainable Development",
-                "type": "internal",
-                "page": "Ministry of Economy, Entrepreneurship and Crafts (Croatia)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "23 July 2020"
-          },
-          "primeminister": {
-            "text": "Andrej Plenković",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Andrej Plenković"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Darko Horvat",
-            "links": [
-              {
-                "text": "Darko Horvat",
-                "type": "internal",
-                "page": "Darko Horvat (politician)"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Environmental Protection and Energy",
-            "links": [
-              {
-                "text": "Minister of Environmental Protection and Energy",
-                "type": "internal",
-                "page": "Ministry of Environmental Protection and Energy (Croatia)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "9 June 2017"
-          },
-          "term_end1": {
-            "text": "23 July 2020"
-          },
-          "primeminister1": {
-            "text": "Andrej Plenković",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Andrej Plenković"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Slaven Dobrović\nMarijo Šiljeg (Acting)"
-          },
-          "successor1": {
-            "text": "Position abolished"
-          },
-          "office2": {
-            "text": "Minister of Labour and Pension System",
-            "links": [
-              {
-                "text": "Minister of Labour and Pension System",
-                "type": "internal",
-                "page": "Ministry of Labour and Pension System (Croatia)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "19 October 2016"
-          },
-          "term_end2": {
-            "text": "9 June 2017"
-          },
-          "primeminister2": {
-            "text": "Andrej Plenković",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Andrej Plenković"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Nada Šikić"
-          },
-          "successor2": {
-            "text": "Marko Pavić"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Tomislav Ćorić",
+  "image": "Tomislav Ćorić (cropped).jpg",
+  "image_size": "175px",
+  "birth_date": "November 17, 1979",
+  "birth_place": "Metković, SR Croatia, SFR Yugoslavia",
+  "party": "HDZ",
+  "alma_mater": "University of Zagreb\n\nUniversity of Greenwich",
+  "office": "Minister of Economy and Sustainable Development",
+  "term_start": "23 July 2020",
+  "primeminister": "Andrej Plenković",
+  "predecessor": "Darko Horvat",
+  "office1": "Minister of Environmental Protection and Energy",
+  "term_start1": "9 June 2017",
+  "term_end1": "23 July 2020",
+  "primeminister1": "Andrej Plenković",
+  "predecessor1": "Slaven Dobrović\nMarijo Šiljeg (Acting)",
+  "successor1": "Position abolished",
+  "office2": "Minister of Labour and Pension System",
+  "term_start2": "19 October 2016",
+  "term_end2": "9 June 2017",
+  "primeminister2": "Andrej Plenković",
+  "predecessor2": "Nada Šikić",
+  "successor2": "Marko Pavić"
 }
