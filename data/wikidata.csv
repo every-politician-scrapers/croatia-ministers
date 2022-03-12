@@ -1,4 +1,5 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
+Q111187965,Ivan Paladina,Ivan Paladina,male,,,https://vlada.gov.hr/clanovi-vlade/66,2022-03-11,Q108068933,"Ministar prostornoga uređenja, graditeljstva i državne imovine",2022-03-09,Q111187965-EA0DED59-917F-45DF-9E1A-3A28BD57DF2B
 Q11685764,Andrej Plenković,Andrej Plenković,male,1970-04-08,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q1195270,Predsjednik Vlade Republike Hrvatske,2016-10-19,Q11685764-cc8446c3-4823-10cf-7744-af8934b95472
 Q12640934,Radovan Fuchs,Radovan Fuchs,male,1953-09-05,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q30140238,Ministar znanosti i obrazovanja,2020-07-23,Q12640934-8E2FD62D-7D94-428D-8FE0-BD9ED7DA3FCD
 Q23303210,Zdravko Marić,Zdravko Marić,male,1977-02-03,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q16973527,Potpredsjednik Vlade,2019-07-19,Q23303210-5600B22F-E57E-42A4-82F9-05833263A125
@@ -11,7 +12,6 @@ Q26248569,Oleg Butković,Oleg Butković,male,1979-05-04,11,https://vlada.gov.hr/
 Q27468700,Nina Obuljen Koržinek,Nina Obuljen Koržinek,female,1970-05-27,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q54869586,Ministrica kulture i medija,2016-10-19,Q27468700-5d715328-40a2-6111-c554-1e610d7de1e4
 Q27537240,Tomislav Ćorić,Tomislav Ćorić,male,1979-11-17,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q108069316,Ministar gospodarstva i održivog razvoja,2020-07-23,Q27537240-356310A8-2146-4E99-9F4D-A74D859D5F49
 Q46511044,Gordan Grlić Radman,Gordan Grlić Radman,male,1958-06-06,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q22979107,Ministar vanjskih i europskih poslova,2019-07-22,Q46511044-1DBAD56C-07DF-458D-BCF0-2A802D05947E
-Q54810256,Darko Horvat,Darko Horvat,male,1970-09-28,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q108068933,"Ministar prostornoga uređenja, graditeljstva i državne imovine",2020-07-23,Q54810256-B142E891-66C2-4E48-8213-87931E212E7C
 Q65704442,Ivan Malenica,Ivan Malenica,male,1985-07-21,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q30344682,Ministar pravosuđa i uprave,2020-07-24,Q65704442-FA3A3BE1-F41C-4743-BB3F-476AD7A3C769
 Q65922295,Josip Aladrović,Josip Aladrović,male,1985-03-10,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q108069330,"Ministar rada, mirovinskoga sustava, obitelji i socijalne politike",2019-07-19,Q65922295-810B0D91-1AFF-4A75-AFC3-ACE909EEFCF9
 Q65922777,Marija Vučković,Marija Vučković,female,1974-07-03,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q108069397,Ministrica poljoprivrede,2019-07-22,Q65922777-12B498A9-C8AE-4779-97FA-1C393EA07376
