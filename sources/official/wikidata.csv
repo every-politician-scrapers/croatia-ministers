@@ -1,5 +1,8 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
 Q111194379,Ivan Paladina,Ivan Paladina,male,1983-06-12,11,https://vlada.gov.hr/clanovi-vlade/66,2022-03-11,Q108068933,"Ministar prostornoga uređenja, graditeljstva i državne imovine",2022-03-09,Q111194379-61F2AE6D-DFCE-45F5-BC5A-A734583F17E2
+Q111893514,Anja Šimpraga,Anja Šimpraga,female,1987-07-23,11,,,Q16973527,Potpredsjednik Vlade Republike Hrvatske,2022-04-29,Q111893514-9d71c3bd-4170-a5ed-bb1f-e342f5e070b3
+Q111893601,Davor Filipović,Davor Filipović,male,1984-06-10,11,,,Q108069316,Ministar gospodarstva i održivog razvoja,2022-04-29,Q111893601-a248ec88-4a92-a4c3-0f75-fea520503c33
+Q111893657,Marin Piletić,Marin Piletić,male,1983-01-12,11,,,Q108069330,,2022-04-29,Q111893657-626845a1-4246-26f5-459f-9d50898316b9
 Q11685764,Andrej Plenković,Andrej Plenković,male,1970-04-08,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q1195270,Predsjednik Vlade Republike Hrvatske,2016-10-19,Q11685764-cc8446c3-4823-10cf-7744-af8934b95472
 Q12640934,Radovan Fuchs,Radovan Fuchs,male,1953-09-05,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q30140238,Ministar znanosti i obrazovanja,2020-07-23,Q12640934-8E2FD62D-7D94-428D-8FE0-BD9ED7DA3FCD
 Q23303210,Zdravko Marić,Zdravko Marić,male,1977-02-03,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q16973527,Potpredsjednik Vlade,2019-07-19,Q23303210-5600B22F-E57E-42A4-82F9-05833263A125
@@ -10,13 +13,10 @@ Q2619574,Davor Božinović,Davor Božinović,male,1961-12-27,11,https://vlada.go
 Q2619574,Davor Božinović,Davor Božinović,male,1961-12-27,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q108068872,ministar unutarnjih poslova,2017-06-09,Q2619574-8D086BF8-4842-4C80-A769-DDE5848AA668
 Q26248569,Oleg Butković,Oleg Butković,male,1979-05-04,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q107370329,"Ministar mora, prometa i infrastrukture",2016-01-22,Q26248569-1c2cd2fb-44f4-6599-0942-81f8f4566034
 Q27468700,Nina Obuljen Koržinek,Nina Obuljen Koržinek,female,1970-05-27,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q54869586,Ministrica kulture i medija,2016-10-19,Q27468700-5d715328-40a2-6111-c554-1e610d7de1e4
-Q27537240,Tomislav Ćorić,Tomislav Ćorić,male,1979-11-17,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q108069316,Ministar gospodarstva i održivog razvoja,2020-07-23,Q27537240-356310A8-2146-4E99-9F4D-A74D859D5F49
 Q46511044,Gordan Grlić Radman,Gordan Grlić Radman,male,1958-06-06,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q22979107,Ministar vanjskih i europskih poslova,2019-07-22,Q46511044-1DBAD56C-07DF-458D-BCF0-2A802D05947E
 Q65704442,Ivan Malenica,Ivan Malenica,male,1985-07-21,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q30344682,Ministar pravosuđa i uprave,2020-07-24,Q65704442-FA3A3BE1-F41C-4743-BB3F-476AD7A3C769
-Q65922295,Josip Aladrović,Josip Aladrović,male,1985-03-10,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q108069330,"Ministar rada, mirovinskoga sustava, obitelji i socijalne politike",2019-07-19,Q65922295-810B0D91-1AFF-4A75-AFC3-ACE909EEFCF9
 Q65922777,Marija Vučković,Marija Vučković,female,1974-07-03,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q108069397,Ministrica poljoprivrede,2019-07-22,Q65922777-12B498A9-C8AE-4779-97FA-1C393EA07376
 Q65922962,Mario Banožić,Mario Banožić,male,1979-03-10,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q47449525,Ministar obrane,2020-07-23,Q65922962-BAB3B616-8DDF-4594-84D9-A9C0C88E15E6
 Q83985420,Nikolina Brnjac,Nikolina Brnjac,female,1978-07-11,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q108069630,Ministrica turizma i sporta,2020-07-23,Q83985420-8D7489C1-1165-4A6C-BB40-9E5F391BE9D9
 Q86458127,Vili Beroš,Vili Beroš,male,1964-12-13,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q29017739,Ministar zdravstva,2020-01-31,Q86458127-CDB78BC7-2420-43E4-AB33-3E20ACC163E6
 Q97654605,Nataša Tramišak,Nataša Tramišak,female,1982-05-06,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q108069372,Ministrica regionalnoga razvoja i fondova Europske unije,2020-07-23,Q97654605-472C22CA-F056-4E2E-A7C4-575CE05023A2
-Q97671314,Boris Milošević,Boris Milošević (političar),male,1974-11-05,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q16973527,Potpredsjednik Vlade za društvene djelatnosti i ljudska prava,2020-07-23,Q97671314-d0e95c68-476a-9de0-8a1b-0cb157f30594
