@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Croatia",
+      "id": "Q224"
+    },
+    "cabinet": {
+      "id": "Q97652364",
+      "start": "2020-07-23",
+      "parent": "Q1278383"
+    },
+    "source": {
+        "url":   "https://vlada.gov.hr/clanovi-vlade/66",
+        "title": "Vlada Republike Hrvatske - Članovi Vlade",
+        "lang":  {
+            "code": "hr",
+            "wikidata": "Q6654"
+        }
+    },
+    "agent": "every-politican-scrapers/croatia-ministers"
+}
