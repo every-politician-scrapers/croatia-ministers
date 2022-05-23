@@ -1,8 +1,8 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
 Q111194379,Ivan Paladina,Ivan Paladina,male,1983-06-12,11,https://vlada.gov.hr/clanovi-vlade/66,2022-03-11,Q108068933,"Ministar prostornoga uređenja, graditeljstva i državne imovine",2022-03-09,Q111194379-61F2AE6D-DFCE-45F5-BC5A-A734583F17E2
-Q111893514,Anja Šimpraga,Anja Šimpraga,female,1987-07-23,11,,,Q16973527,Potpredsjednik Vlade Republike Hrvatske,2022-04-29,Q111893514-9d71c3bd-4170-a5ed-bb1f-e342f5e070b3
-Q111893601,Davor Filipović,Davor Filipović,male,1984-06-10,11,,,Q108069316,Ministar gospodarstva i održivog razvoja,2022-04-29,Q111893601-a248ec88-4a92-a4c3-0f75-fea520503c33
-Q111893657,Marin Piletić,Marin Piletić,male,1983-01-12,11,,,Q108069330,,2022-04-29,Q111893657-626845a1-4246-26f5-459f-9d50898316b9
+Q111893514,Anja Šimpraga,Anja Šimpraga,female,1987-07-23,11,https://vlada.gov.hr/clanovi-vlade/66,2022-05-14,Q16973527,Potpredsjednica Vlade,2022-04-29,Q111893514-9d71c3bd-4170-a5ed-bb1f-e342f5e070b3
+Q111893601,Davor Filipović,Davor Filipović,male,1984-06-10,11,https://vlada.gov.hr/clanovi-vlade/66,2022-05-14,Q108069316,Ministar gospodarstva i održivog razvoja,2022-04-29,Q111893601-a248ec88-4a92-a4c3-0f75-fea520503c33
+Q111893657,Marin Piletić,Marin Piletić,male,1983-01-12,11,https://vlada.gov.hr/clanovi-vlade/66,2022-05-14,Q108069330,"Ministar rada, mirovinskoga sustava, obitelji i socijalne politike",2022-04-29,Q111893657-626845a1-4246-26f5-459f-9d50898316b9
 Q11685764,Andrej Plenković,Andrej Plenković,male,1970-04-08,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q1195270,Predsjednik Vlade Republike Hrvatske,2016-10-19,Q11685764-cc8446c3-4823-10cf-7744-af8934b95472
 Q12640934,Radovan Fuchs,Radovan Fuchs,male,1953-09-05,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q30140238,Ministar znanosti i obrazovanja,2020-07-23,Q12640934-8E2FD62D-7D94-428D-8FE0-BD9ED7DA3FCD
 Q23303210,Zdravko Marić,Zdravko Marić,male,1977-02-03,11,https://vlada.gov.hr/clanovi-vlade/66,2021-08-13,Q16973527,Potpredsjednik Vlade,2019-07-19,Q23303210-5600B22F-E57E-42A4-82F9-05833263A125
