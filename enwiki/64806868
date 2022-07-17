@@ -5,8 +5,12 @@
   "alma_mater": "University of Rijeka",
   "spouse": "Barbara Butković (m. 2006)",
   "party": "HDZ",
-  "office": "Minister of Maritime Affairs, Transport and Infrastructure",
-  "term_start": "22 January 2016",
-  "primeminister": "Tihomir Orešković\nAndrej Plenković",
-  "predecessor": "Siniša Hajdaš Dončić"
+  "office1": "Deputy Prime Minister of Croatia",
+  "primeminister1": "Andrej Plenković",
+  "term_start1": "15 July 2022",
+  "predecessor1": "Zdravko Marić",
+  "office2": "Minister of Maritime Affairs, Transport and Infrastructure",
+  "term_start2": "22 January 2016",
+  "primeminister2": "Tihomir Orešković\nAndrej Plenković",
+  "predecessor2": "Siniša Hajdaš Dončić"
 }
