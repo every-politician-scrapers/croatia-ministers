@@ -1,0 +1,128 @@
+{
+  "title": "Robert Hranj",
+  "pageID": 65969230,
+  "categories": [
+    "1962 births",
+    "Living people",
+    "Croatian admirals"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Robert Hranj (September 5, 1962,Varaždin) is the Chief of the General Staff of the Republic of Croatia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Varaždin"
+                },
+                {
+                  "text": "Chief of the General Staff of the Republic of Croatia",
+                  "type": "internal",
+                  "page": "Chief of the General Staff of the Armed Forces of the Republic of Croatia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Robert Hranj"
+                ]
+              }
+            },
+            {
+              "text": "He was appointed to that position in February 2020 after Zoran Milanović became the new President of Croatia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Zoran Milanović"
+                },
+                {
+                  "type": "internal",
+                  "page": "President of Croatia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Croatian Chief General Staff",
+          "template": "short description"
+        },
+        {
+          "date": "November 2020",
+          "template": "more citations needed"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Robert Hranj"
+          },
+          "image": {
+            "text": "Croatian Chief of Defense Admiral Robert Hranj (cropped).jpg"
+          },
+          "birth_date": {
+            "text": "September 5, 1962"
+          },
+          "birth_place": {
+            "text": "Varaždin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Varaždin"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "2020-03-03",
+          "title": "Viceadmiral Robert Hranj novi načelnik Glavnog stožera Oružanih snaga",
+          "url": "https://www.morh.hr/vicedmiral-robert-hranj-novi-nacelnik-glavnog-stozera-oruzanih-snaga/",
+          "access-date": "2020-11-29",
+          "website": "MORH",
+          "language": "hr",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-mil"
+        },
+        {
+          "list": [
+            ""
+          ],
+          "before": "Mirko Šundov",
+          "title": "Chief of the General Staff of Armed Forces of Croatia",
+          "years": "1 March 2020 – present",
+          "after": "Incumbent",
+          "template": "succession box"
+        },
+        {
+          "template": "gs os rh"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}
